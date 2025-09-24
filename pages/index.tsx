@@ -1,6 +1,6 @@
 import type { NextPage } from "next";
 import Head from "next/head";
-import About from "../components/About";
+import About from "../components/About"; 
 import Footer from "../components/Footer";
 import Header from "../components/Header";
 
@@ -22,12 +22,12 @@ const Home: NextPage = () => {
         <meta property="og:title" content="Ankush Verma - Software Developer" />
         <meta property="og:description" content="Web & Mobile Developer | 4.5+ years in Web Apps (C#, .NET Core) | 2+ years in Flutter Mobile Apps" />
         <meta property="og:image" content="/images/blaiti.png" />
-        <meta property="og:url" content="https://your-portfolio-domain.com" /> 
+        <meta property="og:url" content="https://ankushvx.adwisetech.in" /> 
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Ankush Verma - Software Developer" />
         <meta name="twitter:description" content="Web & Mobile Developer | C#, .NET Core, Flutter, ReactJS, NextJS" />
-        <meta name="twitter:image" content="/images/blaiti.png" /> 
+        <meta name="twitter:image" content="/images/develop.png" />  
       </Head>
 
       {/* Header */}
@@ -35,7 +35,7 @@ const Home: NextPage = () => {
 
       <main>
         {/* About */}
-        <About />
+        <About />  
       </main>
 
       {/* Footer */}

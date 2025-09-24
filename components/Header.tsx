@@ -12,7 +12,8 @@ export default function Header() {
                     <button>Software Developer</button>
                     <h1 className="white">Talk is cheap.</h1>
                     <h1 className="white">Show me the code!</h1>
-                    <p className="gray">I design and code beautiful simple things, and I love what I do.</p>
+                    <p className="gray">I design and build beautiful, simple, and functional applications — from web to mobile — and I love what I do.</p>
+                    <p className="white">✨ Always curious. Always learning. Always coding.</p>
                     <a className="green" href="ankushvx@gmail.com">Let&#39;s chat!</a>
                 </div>
                 <Image src="/images/develop.png" width={463} height={513} alt="blaiti"  /> 

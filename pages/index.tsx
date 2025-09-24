@@ -8,21 +8,26 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Blaiti - Frontend Developer</title>
+        <title>Ankush - Software Developer</title>
         <link rel="icon" href="/favicon.ico" />
-        <meta name="author" content="Ankush Verma" />
-        <meta name="keywords" content="ReactJS, NextJS" />
-        <meta name="description" content="I am a talented Software developer." />
-        <meta charSet="UTF-8" />
-        <meta name="theme-color" content="#2D2E32" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+        <meta charSet="UTF-8" />
+        <meta name="author" content="Ankush Verma" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="theme-color" content="#2D2E32" /> 
+         
         <meta property="og:site_name" content="Ankush - Software Developer" />
         <meta property="og:locale" content="en_GB" />
-        <title data-rh="true">Ankush - Software Developer</title>
-        <meta data-rh="true" property="og:type" content="website"/>
-        <meta data-rh="true" property="og:title" content="Ankush - Software Developer"/>
-        <meta data-rh="true" property="og:image" content="/images/blaiti.png"/>
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Ankush Verma - Software Developer" />
+        <meta property="og:description" content="Web & Mobile Developer | 4.5+ years in Web Apps (C#, .NET Core) | 2+ years in Flutter Mobile Apps" />
+        <meta property="og:image" content="/images/blaiti.png" />
+        <meta property="og:url" content="https://your-portfolio-domain.com" /> 
+
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="Ankush Verma - Software Developer" />
+        <meta name="twitter:description" content="Web & Mobile Developer | C#, .NET Core, Flutter, ReactJS, NextJS" />
+        <meta name="twitter:image" content="/images/blaiti.png" /> 
       </Head>
 
       {/* Header */}

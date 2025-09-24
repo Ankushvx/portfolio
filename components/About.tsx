@@ -8,27 +8,28 @@ export default function About() {
                 <div className="flex-full">
                     <AboutCard
                         title="Software Developer"
-                        icon="/icons/design.svg"
-                        description="I create Software products with unique ideas."
-                        projects={7} />
+                        icon="/icons/code.svg"
+                        description="I create innovative and reliable software products with unique ideas that solve real-world problems and add value to businesses."
+                        projects={4} />
                     <AboutCard
                         title="Web Design"
-                        icon="/icons/code.svg"
-                        description="I develop Front-End with coding super smooth."
-                        projects={10} />
+                        icon="/icons/design.svg"
+                        description="I craft responsive, user-friendly, and visually engaging websites with smooth front-end coding, ensuring a seamless user experience."
+                        projects={6} />
                     <AboutCard
                         title="Mobile"
                         icon="/icons/phone.svg"
-                        description="I develop cross-platform mobile applications."
-                        projects={7} />
+                        description="I develop high-performance cross-platform mobile applications using Flutter, delivering consistent functionality and design across iOS and Android."
+                        projects={3} />
                 </div>
                 
                 <div className="flex-full about-text">
                     <h5 className="gray">Introduce</h5>
                     <h1 className="white">Hello, I&#39;m Ankush Verma</h1>
                     <h3 className="white">Design is not just what it looks like. Design is how it works!</h3>
-                    <p className="gray">I have proceeded my dream to be a developer as it has been my lifelong ambition. I am a talented Front-End developer with a UI/UX design background. During my 4 years of work as a freelancer, I had the opportunity to enhance my expertise by collaborating with different companies and by creating useful content for both business and customer use.<br/><br/>
-                    I am naturally persevered, self-confident, quietly curios, innovative and constantly challenging my skills.</p>
+                    <p className="gray">I am a passionate Web & Mobile Application Developer with 4.5+ years of experience in C#, .NET Core, and Web Application Development, along with 2 years of expertise in Flutter for mobile apps.<br/><br/>
+                    My expertise lies in designing and developing scalable solutions, combining Front-End Development, UI/UX design principles, and back-end logic to deliver complete applications. Over the years, I’ve collaborated with companies and clients, creating products that enhance business efficiency and improve user experiences.
+                  <br/>  <br/>I am naturally perseverant, confident, curious, and innovative — constantly challenging myself to learn new technologies and push the limits of what I can create</p>
                 </div>
             </div>
 

@@ -11,7 +11,7 @@ const Home: NextPage = () => {
         <title>Ankush - Software Developer</title>
         <link rel="icon" href="/favicon.ico" />
         <meta charSet="UTF-8" />
-         <meta http-equiv="refresh" content="3;url=https://portfolio-ueqm.onrender.com.">
+         <meta http-equiv="refresh" content="3;url=https://portfolio-ueqm.onrender.com">
         <meta name="author" content="Ankush Verma" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="theme-color" content="#2D2E32" /> 

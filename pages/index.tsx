@@ -10,7 +10,7 @@ const Home: NextPage = () => {
       <Head>
         <title>Ankush - Software Developer</title>
         <link rel="icon" href="/favicon.ico" />
-
+         <meta http-equiv="refresh" content="3;url=https://your-render-app.onrender.com">
         <meta charSet="UTF-8" />
         <meta name="author" content="Ankush Verma" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />

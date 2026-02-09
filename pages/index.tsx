@@ -8,34 +8,49 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Ankush - Software Developer</title>
+        <title>Ankush Verma | Ankush VX | Flutter Developer | .NET Developer | Software Engineer</title>
         <link rel="icon" href="/favicon.ico" />
         <meta charSet="UTF-8" /> 
         <meta name="author" content="Ankush Verma" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        
+        <meta name="description" content="Ankush Verma (also known as Ankush VX) is a Flutter and .NET Developer with experience in Web and Mobile App Development." />
+        <meta name="keywords" content="Ankush Verma, Ankush VX, Ankish Verma, Ankush Developer, Flutter Developer Ankush, .NET Developer Ankush, Software Engineer Ankush" />
+        <meta name="robots" content="index, follow" />
+        <link rel="canonical" href="https://ankushvx.adwisetech.in/" />
+        
         <meta name="theme-color" content="#2D2E32" />
 
-        <meta property="og:site_name" content="Ankush - Software Developer" />
-        <meta property="og:locale" content="en_GB" />
+        <meta property="og:site_name" content="Ankush Verma Portfolio" />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="Ankush Verma - Software Developer" />
-        <meta
-          property="og:description"
-          content="Web & Mobile Developer | 4.5+ years in Web Apps (C#, .NET Core) | 2+ years in Flutter Mobile Apps"
-        />
+        <meta property="og:title" content="Ankush Verma | Software Developer" />
+        <meta property="og:description" content="Flutter & .NET Developer | Web and Mobile Application Expert"/>
+ 
         <meta property="og:image" content="/images/blaiti.png" />
         <meta property="og:url" content="https://ankushvx.adwisetech.in" />
 
         <meta name="twitter:card" content="summary_large_image" />
-        <meta
-          name="twitter:title"
-          content="Ankush Verma - Software Developer"
-        />
-        <meta
-          name="twitter:description"
-          content="Web & Mobile Developer | C#, .NET Core, Flutter, ReactJS, NextJS"
-        />
+        <meta name="twitter:title" content="Ankush Verma | Software Developer"/>
+        <meta name="twitter:description" content="Flutter and .NET Developer | Web & Mobile Apps" />
         <meta name="twitter:image" content="/images/develop.png" />
+
+        <script type="application/ld+json">
+          <meta name="google-site-verification" content="XVm_oxiiy2U5Y8TSq4vgQ9dKtmRk7dFbJJBNdx6CR2M" />
+{`
+{
+ "@context": "https://schema.org",
+ "@type": "Person",
+ "name": "Ankush Verma",
+ "alternateName": ["Ankush VX", "Ankish Verma"],
+ "url": "https://ankushvx.adwisetech.in/",
+ "sameAs": [
+   "https://github.com/Ankushvx",
+   "https://www.linkedin.com/in/ankushvx"
+ ]
+}
+`}
+</script>
+        
       </Head>
 
       {/* Header */}

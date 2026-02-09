@@ -41,7 +41,7 @@ const Home: NextPage = () => {
  "@context": "https://schema.org",
  "@type": "Person",
  "name": "Ankush Verma",
- "alternateName": ["Ankush VX", "Ankish Verma"],
+ "alternateName": ["Ankush VX", "Ankushvx", "Ankish Verma"],
  "url": "https://ankushvx.adwisetech.in/",
  "sameAs": [
    "https://github.com/Ankushvx",

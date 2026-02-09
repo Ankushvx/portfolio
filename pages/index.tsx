@@ -14,6 +14,8 @@ const Home: NextPage = () => {
         <meta name="author" content="Ankush Verma" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         
+        <meta name="google-site-verification" content="XVm_oxiiy2U5Y8TSq4vgQ9dKtmRk7dFbJJBNdx6CR2M" />
+        
         <meta name="description" content="Ankush Verma (also known as Ankush VX) is a Flutter and .NET Developer with experience in Web and Mobile App Development." />
         <meta name="keywords" content="Ankush Verma, Ankush VX, Ankish Verma, Ankush Developer, Flutter Developer Ankush, .NET Developer Ankush, Software Engineer Ankush" />
         <meta name="robots" content="index, follow" />
@@ -32,10 +34,8 @@ const Home: NextPage = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Ankush Verma | Software Developer"/>
         <meta name="twitter:description" content="Flutter and .NET Developer | Web & Mobile Apps" />
-        <meta name="twitter:image" content="/images/develop.png" />
-
+        <meta name="twitter:image" content="/images/develop.png" /> 
         <script type="application/ld+json">
-          <meta name="google-site-verification" content="XVm_oxiiy2U5Y8TSq4vgQ9dKtmRk7dFbJJBNdx6CR2M" />
 {`
 {
  "@context": "https://schema.org",

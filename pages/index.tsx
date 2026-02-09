@@ -16,8 +16,8 @@ const Home: NextPage = () => {
         
         <meta name="google-site-verification" content="XVm_oxiiy2U5Y8TSq4vgQ9dKtmRk7dFbJJBNdx6CR2M" />
         
-        <meta name="description" content="Ankush Verma (also known as Ankush VX) is a Flutter and .NET Developer with experience in Web and Mobile App Development." />
-        <meta name="keywords" content="Ankush Verma, Ankush VX, Ankish Verma, Ankush Developer, Flutter Developer Ankush, .NET Developer Ankush, Software Engineer Ankush" />
+        <meta name="description" content="Ankush Verma (also known as Ankushvx) is a Flutter and .NET Developer with experience in Web and Mobile App Development." />
+        <meta name="keywords" content="Ankush Verma, Ankush VX, Ankushvx, Ankush vx, Ankush bx, Ankish Verma, Ankush Developer, Flutter Developer Ankush, .NET Developer Ankush, Software Engineer Ankush" />
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://ankushvx.adwisetech.in/" />
         

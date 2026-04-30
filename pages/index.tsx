@@ -35,6 +35,16 @@ const Home: NextPage = () => {
         <meta name="twitter:title" content="Ankush Verma | Software Developer"/>
         <meta name="twitter:description" content="Flutter and .NET Developer | Web & Mobile Apps" />
         <meta name="twitter:image" content="/images/develop.png" /> 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q3R9PBHJYT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q3R9PBHJYT');
+</script>
+        
         <script type="application/ld+json">
 {`
 {

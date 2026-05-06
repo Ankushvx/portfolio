@@ -34,11 +34,11 @@ export default function About() {
             </div>
 
             <div className="flex partners justify-space">  
-                <Image src="/images/partners/wallety.png" height={45} width={180} alt="wallety" />
-                <Image src="/images/partners/artisty.png" height={45} width={180} alt="artisty" /> 
+                {/* <Image src="/images/partners/wallety.png" height={45} width={180} alt="wallety" /> */}
+                <Image src="/images/partners/Adwisetech.png" height={45} width={180} alt="Adwisetech" /> 
                 <Image src="/images/partners/subharti.png" height={45} width={200} alt="subharti" />
-                <Image src="/images/partners/directy.png" height={45} width={180} alt="directy" />
-                <Image src="/images/partners/telefy.png" height={45} width={180} alt="telefy" />
+                {/* <Image src="/images/partners/directy.png" height={45} width={180} alt="directy" />
+                <Image src="/images/partners/telefy.png" height={45} width={180} alt="telefy" /> */}
             </div>
         </section>
     )

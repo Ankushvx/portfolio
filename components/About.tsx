@@ -33,8 +33,8 @@ export default function About() {
                 </div>
             </div>
 
-            <div className="flex partners justify-space">  
-             {/*   <Image src="/images/partners/wallety.png" height={45} width={180} alt="wallety" />
+            <div className="flex partners space-around">  
+             {/*   <Image  justify-space src="/images/partners/wallety.png" height={45} width={180} alt="wallety" />
                 <Image src="/images/partners/directy.png" height={45} width={180} alt="directy" />
                 <Image src="/images/partners/telefy.png" height={45} width={180} alt="telefy" />*/}
                 <Image src="/images/partners/logo.png" height={45} width={180} alt="artisty" /> 

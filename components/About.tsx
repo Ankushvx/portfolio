@@ -27,18 +27,18 @@ export default function About() {
                     <h5 className="gray">Introduce</h5>
                     <h1 className="white">Hello, I&#39;m Ankush Verma</h1>
                     <h3 className="white">Design is not just what it looks like. Design is how it works!</h3>
-                    <p className="gray">I am a passionate Web & Mobile Application Developer with 4.5+ years of experience in C#, .NET Core, and Web Application Development, along with 2 years of expertise in Flutter for mobile apps.<br/><br/>
+                    <p className="gray">I am a passionate Web & Mobile Application Developer with 5+ years of experience in C#, .NET Core, and Web Application Development, along with 2 years of expertise in Flutter for mobile apps.<br/><br/>
                     My expertise lies in designing and developing scalable solutions, combining Front-End Development, UI/UX design principles, and back-end logic to deliver complete applications. Over the years, I’ve collaborated with companies and clients, creating products that enhance business efficiency and improve user experiences.
                   <br/>  <br/>I am naturally perseverant, confident, curious, and innovative — constantly challenging myself to learn new technologies and push the limits of what I can create</p>
                 </div>
             </div>
 
-            <div className="flex partners justify-space">  
-                {/* <Image src="/images/partners/wallety.png" height={45} width={180} alt="wallety" /> */}
-                <Image src="/images/partners/Adwisetech.png" height={45} width={180} alt="Adwisetech" /> 
+            <div className="flex partners space-around">  
+             {/*   <Image  justify-space src="/images/partners/wallety.png" height={45} width={180} alt="wallety" />
+                <Image src="/images/partners/directy.png" height={45} width={180} alt="directy" />
+                <Image src="/images/partners/telefy.png" height={45} width={180} alt="telefy" />*/}
+                <Image src="/images/partners/logo.png" height={45} width={180} alt="artisty" /> 
                 <Image src="/images/partners/subharti.png" height={45} width={200} alt="subharti" />
-                {/* <Image src="/images/partners/directy.png" height={45} width={180} alt="directy" />
-                <Image src="/images/partners/telefy.png" height={45} width={180} alt="telefy" /> */}
             </div>
         </section>
     )
